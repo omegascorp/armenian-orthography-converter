@@ -1,4 +1,4 @@
-# Armenian orthography converter
+# Armenian orthography converter test
 
 [![Bower](https://img.shields.io/bower/v/armenian-orthography-converter.svg?style=flat-square)](https://github.com/instigatetcf/armenian-orthography-converter/)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://github.com/instigatetcf/armenian-orthography-converter/blob/master/LICENSE)
